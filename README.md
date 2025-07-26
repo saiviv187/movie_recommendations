@@ -39,7 +39,8 @@ Recommendation Logic: The model.py module contains the content-based recommendat
 Streamlit UI: The app.py file orchestrates the user interface, managing session state, user inputs, and displaying results.
 
 Project Structure
-.
+
+
 ├── app.py              
 ├── model.py             
 ├── utils.py             
